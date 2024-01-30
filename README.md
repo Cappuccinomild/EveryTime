@@ -16,6 +16,7 @@ ii.	댓글 DB 추출 목록
 
 B.	예상문제점
 i.	에브리타임에서 크롤러를 막는 경우 크롤링 시간을 조절해야해서 크롤링 시간이 오래걸릴 수 있음.
+
  ![image](https://github.com/Cappuccinomild/EveryTime/assets/33108600/8bf0232f-357a-4302-9ee3-f403d9daa353)
 
 ii.	액션 방식의 사이트일 경우 추가적인 처리가 필요함
@@ -30,15 +31,18 @@ A.	양식
 1안에서는 같은 게시물이라도 여러 번 단어가 나온다면 모두 저장하며
 2안에서는 단어가 나왔던 게시물들을 추출해서 나열하는 방식.
 i.	1안
+
   ![image](https://github.com/Cappuccinomild/EveryTime/assets/33108600/bc1e7331-4cf6-4574-b4ea-d0c0bafdfa52)
-![image](https://github.com/Cappuccinomild/EveryTime/assets/33108600/50f9a061-5988-41c3-80bd-b962700965fc)
+  ![image](https://github.com/Cappuccinomild/EveryTime/assets/33108600/50f9a061-5988-41c3-80bd-b962700965fc)
 
 ii.	2안
+
  ![image](https://github.com/Cappuccinomild/EveryTime/assets/33108600/3da7a1f8-c4ae-4497-aeaf-dbf679988ef5)
 
 
 3.	통계 추출
 A.	양식
+
  ![image](https://github.com/Cappuccinomild/EveryTime/assets/33108600/e783b007-b8a3-41a1-9691-25900b27c363)
 
 전체 글 수와 전체 댓글수를 표기해 주며 여러 검색어에 대한 글과 댓글 건수를 표시함.
